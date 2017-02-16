@@ -1,0 +1,4 @@
+dist: trusty
+script:
+    - echo $TRAVIS_BRANCH
+    - echo $TRAVIS_TAG
